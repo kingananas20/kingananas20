@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kingananas20
+- 👀 I’m interested in Python, JavaScript, HTML and CSS. I also like playing Minecraft, Fall Guys or Valorant.
+- 🌱 I’m currently learning Python. Later JavaScript, HTML and CSS.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: 
+-    Discord: kingananas2.0#8527
