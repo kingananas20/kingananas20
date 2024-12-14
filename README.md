@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @kingananas20
-- 👀 I’m interested in Python and JavaScript. I like playing Star Citizen, Valorant and Minecraft.
-- 🌱 I’m currently learning Python and JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
--    Discord: kingananas2.0#8527
+I'm @kingananas20.
+I'm currently learning Rust.
+I can alread do Python and JavaScript.
